@@ -109,4 +109,4 @@
 * [Основной YouTube канал](https://www.youtube.com/channel/UCgtAOyEQdAyjvm9ATCi_Aig?sub_confirmation=1)
 * [YouTube канал про Arduino](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA?sub_confirmation=1)
 * [Мои видеоуроки по пайке](https://www.youtube.com/playlist?list=PLOT_HeyBraBuMIwfSYu7kCKXxQGsUKcqR)
-* [Мои видеоуроки по Arduino](http://alexgyver.ru/arduino_lessons/)
+* [Мои видеоуроки по Arduino](http://alexgyver.ru/arduino_lessons/)# test
